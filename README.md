@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JyotibaD
+Hi there 👋
 
