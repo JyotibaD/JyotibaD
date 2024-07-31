@@ -1,4 +1,4 @@
-![Banner](https://github.com/JyotibaD/JyotibaD/blob/main/banner_java.jpg)
+
 
                                                Hi there 👋
 
