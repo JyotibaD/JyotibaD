@@ -1,4 +1,6 @@
-Hi there 👋
+![Banner](https://github.com/JyotibaD/JyotibaD/blob/main/banner_java.jpg)
+
+                                               Hi there 👋
 
 ![JyotibaD's stat](https://github-readme-stats.vercel.app/api?username=JyotibaD&show_icons=true&theme=radical)
 
